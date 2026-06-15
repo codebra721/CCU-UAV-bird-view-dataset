@@ -29,6 +29,4 @@ that you can run all code pack python code
   
   It is change fly log .kmz to .csv
 ## dataset
-I storage my dataset in synology please use [this_link](http://gofile.me/3rsol/ZjzQg0O69), then enter the password enter file to download datset.
-
-password: please notice me, that I will sent you password
+The dataset was acquired by our laboratory from a government agency. Unfortunately, my professor has not granted permission for its public distribution, so I had no choice but to close access to it.
